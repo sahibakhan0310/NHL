@@ -16,10 +16,11 @@ The NHL Team Statistics Web Application provides users with access to detailed s
 
 2. Navigate to the project directory:
    ```
-   cd nhl-team-stats-web-app
+   cd nhl : it will have two directories : frontend and backend 
+
    ```
 
-3. Install dependencies using npm or yarn:
+3. Frontend: Install dependencies using npm or yarn:
    ```
    npm install
    ```
@@ -40,6 +41,10 @@ The NHL Team Statistics Web Application provides users with access to detailed s
 5. Open the application in your web browser:
    ```
    http://localhost:3000
+   ```
+6. Bakcend: Run below command:
+   ```
+   node server.js
    ```
 
 **Usage:**
@@ -65,8 +70,5 @@ Contributions to the project are welcome. To contribute, please follow these ste
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 **Authors:**
-- [Author Name](https://github.com/author-name)
+- [Author Name]([https://github.com/author-name](https://github.com/sahibakhan0310))
 
-**Acknowledgments:**
-- Special thanks to [API Provider](https://api-provider.com) for providing access to NHL team statistics data.
-- Inspiration for this project came from [Source of Inspiration](https://source-of-inspiration.com).
