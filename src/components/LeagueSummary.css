@@ -1,0 +1,32 @@
+/* LeagueSummary.css */
+
+.container {
+  background-color: #f8f9fa; /* Light grey background */
+  padding: 20px;
+}
+
+.heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #3f51b5;
+  margin-bottom: 20px;
+}
+
+.tableContainer {
+  width: 80%;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tableHeadCell {
+  background-color: #9aa3d6;
+  font-weight: bold;
+}
+
+.tableRow:nth-of-type(odd) {
+  background-color: #f2f2f2;
+}
+
+.tableBodyCell {
+  padding: 12px;
+}
